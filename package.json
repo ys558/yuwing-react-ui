@@ -1,6 +1,6 @@
 {
   "name": "yuwing-react-ui",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "simple react compoent library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -16,6 +16,7 @@
   "publishConfig": {
     "@ys558:registry": "https://github.com/ys558/yuwing-react-ui.git"
   },
+  "registry": "https://github.com/ys558/yuwing-react-ui.git",
   "keywords": [],
   "author": "Yu Yi (Kyle Yu)",
   "license": "MIT",
